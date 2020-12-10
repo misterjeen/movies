@@ -2,24 +2,16 @@
 "name": "หนังออนไลน์",
 "Author": "WisePlayกลุ่มAndroidBox",
 "image": "https://webstockreview.net/images/movie-clipart-movie-logo-19.png",
-"url": "https://raw.githubusercontent.com/misterjeen/movies/main/digitaltv",
+"url": "https://raw.githubusercontent.com/misterjeen/movies/movie/movieonline",
 "stations": [
  
  
  
 {
-"name": "6 December 2020",  
-"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-"url": "http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8",
-"playInNatPlayer": "true"
-},
- 
- 
-{
-"name": "ททบ.5",  
-"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
-"url": "https://we-play.tv/watching/tv/ch5-hd",
-"referer": "https://we-play.tv/",
+"name": "The Tower (2012) ระฟ้าฝ่านรก",  
+"image": "https://biggmoviesnows.com/wp-content/uploads/2020/12/The-Tower.jpg",
+"url": "https://biggmoviesnows.com/the-tower-2012-%e0%b8%a3%e0%b8%b0%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%9d%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%81",
+"referer": "https://biggmoviesnows.com/",
 "playInNatPlayer": "true"
 },
 {
